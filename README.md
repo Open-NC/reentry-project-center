@@ -1,5 +1,13 @@
 # Reentry Resources Project Center
-This is the central repository for information about and links to all the component repositories. 
+This is the central repository for information about and links to all the component repositories.
+
+## Purpose
+
+TBD - paragraph on the purpose of the project
+
+## Project Organization
+
+Quick explanation of how the project is structured. Guide to the 4 main repositories.
 
 The reentry project consists of 4 separate repositories:
 
@@ -17,3 +25,4 @@ Most immediately, we are holding a hackathon in Asheville and Greensboro on Satu
 * [Google Hangout Link - Coming soon](#tbd)
 
 You can find a list of tasks for the day [here](https://github.com/orgs/CodeForNC/projects/1)
+
