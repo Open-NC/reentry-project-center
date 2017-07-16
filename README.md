@@ -31,33 +31,33 @@ You can find a list of tasks for the day [here](https://github.com/orgs/CodeForN
 
 #### Interested, but not ready to commit code yet? - Here are some resources to prepare
 
-###### * [Git](https://git-scm.com/)
+##### [Git](https://git-scm.com/)
   * [Download/Install](https://git-scm.com/downloads)
   * [Docs](https://git-scm.com/doc)
   * [Tutorial](https://www.codeschool.com/courses/try-git)
   
-###### * [GitHub](https://github.com/)
+##### [GitHub](https://github.com/)
   * [Create Account](https://github.com/join)
   * [Tutorial](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
   
-###### * [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+##### [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
   * [Tutorial](https://www.codecademy.com/learn/javascript)
 
-###### * [React](https://facebook.github.io/react/)
+##### [React](https://facebook.github.io/react/)
   * [Docs](https://facebook.github.io/react/docs/installation.html)
   * [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
   
-###### * [GraphQL](http://graphql.org/)
+##### [GraphQL](http://graphql.org/)
   * [Docs](http://graphql.org/learn/)
   * [Tutorial](http://graphql.org/graphql-js/)
  
-###### * [Node](https://nodejs.org/en/)
+##### [Node](https://nodejs.org/en/)
   * [Download/Install](https://nodejs.org/en/download/)
   * [Docs](https://nodejs.org/en/docs/)
   * [Tutorial](https://github.com/maxogden/art-of-node/#the-art-of-node)
   * [Resources](https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
   
-###### * [Express](https://expressjs.com/)
+##### [Express](https://expressjs.com/)
   * [Docs](https://expressjs.com/en/4x/api.html)
   *[Tutorial](https://code.tutsplus.com/tutorials/introduction-to-express--net-33367)
   
