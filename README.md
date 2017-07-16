@@ -57,7 +57,7 @@ You can find a list of tasks for the day [here](https://github.com/orgs/CodeForN
   * [Tutorial](http://graphql.org/graphql-js/)
  
 #### Node
-  * [Main Page]((https://nodejs.org/en/))
+  * [Main Page](https://nodejs.org/en/)
   * [Download/Install](https://nodejs.org/en/download/)
   * [Docs](https://nodejs.org/en/docs/)
   * [Tutorial](https://github.com/maxogden/art-of-node/#the-art-of-node)
