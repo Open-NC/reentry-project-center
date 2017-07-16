@@ -59,7 +59,7 @@ You can find a list of tasks for the day [here](https://github.com/orgs/CodeForN
   
 ##### [Express](https://expressjs.com/)
   * [Docs](https://expressjs.com/en/4x/api.html)
-  *[Tutorial](https://code.tutsplus.com/tutorials/introduction-to-express--net-33367)
+  * [Tutorial](https://code.tutsplus.com/tutorials/introduction-to-express--net-33367)
   
   
   
