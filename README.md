@@ -29,3 +29,12 @@ Most immediately, we are holding a hackathon in Asheville and Greensboro on Satu
 
 You can find a list of tasks for the day [here](https://github.com/orgs/CodeForNC/projects/1)
 
+Interested, but not ready to commit code yet? - here are some resources to prepare
+
+* [Git] (https://git-scm.com/)
+* [GitHub] (https://github.com/)
+* [JavaScript] (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [React] (https://facebook.github.io/react/)
+* [GraphQL] (http://graphql.org/)
+* [Node] (https://nodejs.org/en/)
+* [Express] (https://expressjs.com/)
