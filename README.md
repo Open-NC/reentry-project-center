@@ -27,9 +27,10 @@ Most immediately, we are holding a hackathon in Asheville and Greensboro on Satu
 * [Greensboro Meetup Information](https://www.meetup.com/Code-for-Greensboro/events/241165204/)
 * [Asheville Meetup Information](https://www.meetup.com/Code-for-Asheville/events/241041803/)
 
-You can find a list of tasks for the day [here](https://github.com/orgs/CodeForNC/projects/1)
+You can find a list of tasks for the day [here](https://github.com/orgs/CodeForNC/projects/1).
 
-#### Interested, but not ready to commit code yet? - Here are some resources to prepare
+
+### Interested, but not ready to commit code yet? - Here are some resources to prepare
 
 #### Git
   * [Main Page](https://git-scm.com/)
