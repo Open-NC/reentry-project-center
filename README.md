@@ -22,12 +22,7 @@ The public site and administrative front end codes use React. The adminstrative 
 
 ## How to contribute
 
-Most immediately, we are holding a hackathon in Asheville and Greensboro on Saturday, July 22, 2017:
-
-* [Greensboro Meetup Information](https://www.meetup.com/Code-for-Greensboro/events/241165204/)
-* [Asheville Meetup Information](https://www.meetup.com/Code-for-Asheville/events/241041803/)
-
-You can find a list of tasks for the day [here](https://github.com/orgs/CodeForNC/projects/1).
+You can find a list of unassigned tasks for the day [here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3ACodeforNC+no%3Aassignee+).
 
 
 ### Interested, but not ready to commit code yet? - Here are some resources to prepare
