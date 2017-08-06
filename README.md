@@ -25,7 +25,9 @@ The public site and administrative front end codes use React. The adminstrative 
 You can find a list of unassigned tasks [here](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+org%3ACodeforNC+no%3Aassignee+). You can also look at issues in each of the individual repositories.
 
 
-### Interested, but not ready to commit code yet? - Here are some resources to prepare
+### Prepare to Contribute
+
+Interested, but not ready to commit code yet? - Here are some resources to prepare
 
 #### Git
   * [Main Page](https://git-scm.com/)
