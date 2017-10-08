@@ -5,7 +5,7 @@ We originally planned to launch the new statewide version of the reentry resour
 
 We now expect to launch in January 2018. Most of the work to prepare will happen in November and early December. Stay tuned for more information.
 
-If you have any questions, feel free to reach out to [Eric Jackson](https://github.com/ejaxon) or [Jason Marshall)https://github.com/marshallj) or watch this page.
+If you have any questions, feel free to reach out to [Eric Jackson](https://github.com/ejaxon) or [Jason Marshall](https://github.com/marshallj) or watch this page.
 
 
 ## Purpose
