@@ -1,6 +1,13 @@
 # Reentry Resources Project Center
 This is the central repository for information about and links to all the component repositories.
 
+We originally planned to launch the new statewide version of the reentry resources hub this fall and had good momentum coming out of the July hack day. Unfortunately a perfect storm of illnesses, conferences and vacations have set us back. 
+
+We now expect to launch in January 2018. Most of the work to prepare will happen in November and early December. Stay tuned for more information.
+
+If you have any questions, feel free to reach out to [Eric Jackson](https://github.com/ejaxon) or [Jason Marshall)https://github.com/marshallj) or watch this page.
+
+
 ## Purpose
 
 Accessible, accurate and safe information on resources for those returning to the community after a period of incarceration or suffering the consequences of a criminal conviction on their record can be very hard to come by. Not only is the information dispersed across many different sites, but there is a tremendous amount of inaccurate, outdated information out there and a lot of places that are looking to exploit the vulnerable. The challenge is there not only for those contending with the issue, but also for those trying to help them: defense lawyers, parole officers, prison counselors, etc.
